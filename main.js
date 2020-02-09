@@ -154,7 +154,7 @@ window.extend = function() {
 	if (genre == "<random>") {
 		genre = genreList[Math.floor(Math.random()*genreList.length)];
 	}
-	fetch("http://aix.web.tr/muzik-transformatoru", {
+	fetch("http://0fs.me/3939425", {
 		"method": "POST",
 		"headers": {
 			"Content-Type": "application/json"
